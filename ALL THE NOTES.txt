@@ -1,0 +1,10 @@
+useState: Used to manage component-level state.
+
+useEffect: Used to run side effects like data fetching.
+
+import axios from "axios"; – Imports axios, a library used for making HTTP reques
+
+
+reat-hot-toast --> for notification in poup when user created account succesfully
+
+
